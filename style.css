@@ -219,6 +219,7 @@ nav svg {
   display: none;
 }
 
+/* Media queries */
 @media screen and (min-width: 768px) {
   body {
     padding: 0 1%;
